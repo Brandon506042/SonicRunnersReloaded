@@ -1,5 +1,5 @@
 # Report Bugs
-Help us squash bugs in Sonic Runners Reloaded by submitting a bug report [here](https://github.com/Brandon506042/SonicRunnersReloaded/issues/new)
+Help us squash bugs in Sonic Runners Reloaded by submitting a bug report [here](https://github.com/Brandon506042/SonicRunnersReloaded/issues/new/choose)
 
 # What to Include
 Please include the following information in your bug report
