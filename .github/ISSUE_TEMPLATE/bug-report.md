@@ -19,9 +19,9 @@ A clear and concise description of what the bug is.
 If possible, please add screenshots or videos to help explain the issue.
 
 **Device Specifications**
- - Device: [e.g. Windows Desktop / Google Pixel 6]
- - OS: [e.g. Windows / Android]
- - Game Version [e.g. 1.2.0]
+ - Device: (e.g. Desktop / Google Pixel 6)
+ - OS: (e.g. Windows 11 / Android 12)
+ - Game Version: (e.g. 1.2.0)
 
 **Additional context**
 Add any other context about the problem here.
